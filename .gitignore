@@ -35,3 +35,10 @@
 *.png
 *.pdf
 *.root
+*.tgz
+
+#data
+/data/
+/subruns/
+/results/
+
